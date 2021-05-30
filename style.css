@@ -140,10 +140,6 @@ body::before {
     justify-content: center;
     align-items: center;
 }
-.py-5-c{
-  padding-top: 7rem;
-  padding-bottom: 3rem;
-}
 
 @media (max-width:768px){
     .first{
