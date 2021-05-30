@@ -155,3 +155,16 @@ body::before {
         display: block;
     }
 }
+
+@media(max-width:600px){
+  .main{
+    width: 25rem;
+    margin: auto;
+  }
+  .items-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+}
